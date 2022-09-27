@@ -7,4 +7,4 @@
   - Custom Ball Friction Implmentation
   - Ball curve implementation
   - GLT Delay
-  - Advamced Rigorous Anti-Cheat Mechanism
+  - Advanced Rigorous Anti-Cheat Mechanism
