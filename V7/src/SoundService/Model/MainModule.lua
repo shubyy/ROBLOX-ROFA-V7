@@ -1,0 +1,51 @@
+
+--format: stad name (approx), song id, startpos, length, volume
+
+local data = {
+  songs = {
+		{"Old Park", "4267446184", 56, 20, 3 },
+		{"Supernova Stadium ", "2590490779", 0, -1, 3 },
+		{"Riot Park", "4829516626", 0, -1, 6 },
+		{"Tenochtilan Stadium", "2946529750", 0, 20, 4 },
+		{"Castle of Beanme", "2946529750", 0, 20, 4 },
+		{"Fire & Fury", "648286093", 7, 20, 5 },
+		{"Tornado Alley", "4267446184", 0, 20, 4 },
+		{"Red Horn Lane", "2439490342", 12, 18, 4 },
+		{"Krimson Park", "4521908173", 0, -1, 4 },
+		{"Bricksmith", "2520954154", 20, 20, 5 },
+		{"Hounds Pound", "3907312308", 0, 20, 5 },
+		{"Bolter Stadium", "2800714108", 34, 20, 4 },
+		{"Shanke", "140777409", 0, 20, 5 },
+		{"Atlantis Arena", "1142082881", 60, 20, 4 },
+		{"Phantom Rim", "128238105", 0, 20, 5 },
+		{"The Den", "621470804 ", 45, 20, 3 },
+		{"Vince Den Arena", "305161658", 0, 20, 7 },
+		{"Ignitor's Den", "343083717", 0, 20, 5 },
+		{"Scoprions", "4829287521", 0, -1, 4 },
+		{"Patriot's Park", "3907312308", 0, 20, 5 },
+		{"Champions", "2599359802", 60, 20, 4 },
+		{"Phoenix Den", "4901748989", 0, -1, 7 },
+		{"Solar Eclipse ", "4829571683", 0, -1, 7 },
+		{"Golden City Grounds", "4736766355", 5, 20, 7 },
+		{"Sunny Stadium", "290176752", 0, 20, 5 },
+		{"Underwater Town", "4736766355", 0, -1, 7 },
+		{"Phantom Rim", "1282381015", 64, 20, 3 },
+		{"Sharkhead Stadium", "306293093", 0, 20, 5 },
+		{"Frost Palace", "4277136473", 10, 20, 5 },
+		{"Royal Kingdom", "4832927286", 0, -1, 10 },
+		{"The Battlefield", "4880965453", 11, 20, 5 },
+		{"Ace Amphitheatre", "4829402573", 0, -1, 6 },
+		{"City Stadium", "4829499596", 0, -1, 4 },
+		{"City of Dreams", "716794419", 0, 20, 4 },
+		{"Crystal City", "4611348536", 5, 20, 4 },
+		{"The Wishing Well", "342309120", 0, -1, 5 },
+		{"Jaguar Arena", "4521908173", 20, 20, 4 },
+		{"Cloud 7", "732563939", 2, 20, 5 },
+		{"Wonderful Stadium", "732563939", 63, 20, 5 },
+		{"Pawn & Knight Stadium", "3612227852", 25, 20, 5 },
+		{"Jed494", "5156351807", 25, 20, 5 },
+		{"Arena Nationala", "5016920165", 0, -1, 2 },
+	}
+}
+
+return data
