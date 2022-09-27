@@ -1,6 +1,6 @@
-A football/soccer toolset developed in LUA for use with the Roblox Game Engine.
+# A football/soccer toolset developed in LUA for use with the Roblox Game Engine.
 
-Features:
+## Features:
   Low Shot
   High Shot
   Driven Shot
